@@ -24,14 +24,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I'm a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil, focused on frontend with more than 5 years of experience, below are listed some of the technologies and tools I have worked with in recent years.
+Despite maintaining my constant development as a software engineer, I also have a passion for the area of ​​machine learning and artificial intelligence, as well as the financial market. So I often find myself studying these areas and how they can be interconnected.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I usually go to the gym, read some books and study about the financial market
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/massucattoj/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-massucatto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/massucattoj/)
 
 ---
 
