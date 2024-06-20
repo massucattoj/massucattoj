@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  <p>In brightest day, in blackest night, no bug shall escape my sight. Let those who worship evil's might beware my power… Developer light!</p>
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
